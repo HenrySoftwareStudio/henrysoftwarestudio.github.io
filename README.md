@@ -9,8 +9,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrySoftwareStudio)](https://github.com/HenrySoftwareStudio?tab=repositories)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/HenrySoftwareStudio?tab=repositories)
 ### Current Projects I Am Working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/anuraghazra/github-readme-stats)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=MathUIEngine)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/import-brain/basic_calc)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=MathUIEngine)](https://henrysoftwarestudio.github.io/MathUIEngine/)
 ### Pass Project Highlights:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board&show_owner=true)](https://github.com/HenrySoftwareStudio/tic-tac-toe_board)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=Jeopardy&show_owner=true)](https://github.com/HenrySoftwareStudio/Jeopardy)\
